@@ -11,8 +11,8 @@ REST API sederhana untuk mencatat peminjaman buku perpustakaan oleh anggota. Dib
 
 ## Link Deployment
 
-- **Base URL (Vercel):** `https://GANTI-DENGAN-LINK-VERCEL-KAMU.vercel.app`
-- **Repository GitHub:** `https://github.com/GANTI-USERNAME/GANTI-NAMA-REPO`
+- **Base URL (Vercel):** `https://responsimod1-one.vercel.app/`
+- **Repository GitHub:** `https://github.com/mhmdfhrii/responsi_mod1.git`
 
 ## Struktur Data / Schema
 
